@@ -1,6 +1,6 @@
 # 🎥 AI-Powered YouTube Video Analysis Platform
 
-Welcome to the AI-Powered YouTube Video Analysis Platform! This project leverages cutting-edge AI technologies to provide detailed, human-like analysis of YouTube videos. Our platform is built on a robust Flask-based API and integrates advanced AI models such as Meta-Llama and genAI Gemini to offer a seamless, interactive user experience.
+Welcome to the AI-powered YouTube Video Analysis Platform! This project leverages cutting-edge AI technologies to provide detailed, human-like analysis of YouTube videos. Our platform is built on a robust Flask-based API and integrates advanced AI models such as Meta-Llama and genAI Gemini to offer a seamless, interactive user experience.
 
 ## 🚀 Key Features
 
@@ -18,15 +18,11 @@ Our platform simplifies the process of analyzing and understanding video content
 
 ## 📱 Getting Started
 
-To start using the AI-Powered YouTube Video Analysis Platform, you can:
+To start using the AI-powered YouTube Video Analysis Platform, you can:
 
 1. Clone this repository to your local machine.
 2. Set up the Flask-based API by following the installation instructions.
 3. Use the provided mobile app to submit YouTube video URLs and receive detailed analysis.
-
-## 📖 Documentation
-
-For detailed setup instructions, API documentation, and usage examples, please refer to the [Wiki](#) or check out the `docs` folder in this repository.
 
 ## 🤝 Contributing
 
