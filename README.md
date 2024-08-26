@@ -30,7 +30,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## 📧 Contact
 
-For any questions or support, please reach out to us at [support@example.com](mailto:support@example.com).
+For any questions or support, please reach out to us at [abdelrahmankarawia2@gmail.com](mailto:abdelrahmankarawia2@gmail.com).
 
 ## 📜 License
 
