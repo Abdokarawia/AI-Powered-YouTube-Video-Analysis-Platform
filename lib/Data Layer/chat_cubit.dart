@@ -1,4 +1,5 @@
 // presentation/cubit/chat_cubit.dart
+//
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_chat_types/flutter_chat_types.dart' as types;
 import 'package:uuid/uuid.dart';
